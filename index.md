@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/michaelgeng0423/Resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/michaelgeng0423/Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Long G eng eng
+Apt 101, 127 Murray Street, Caulfield, 3162, Melbourne | +61 410780424 | michaelgeng0423@gmail.com
+Job Objective
+· UI/UX Designer
+· Front-end programmer
+Education Background
+MASTER OF INFORMATION TECHNOLOGY | JUNE 2017 | MONASH UNIVERSITY
+· Majors：User Interface Design and Usability | Internet Applications Development | Enterprise Application Development for the Web | Distributed and Big Data Processing | Software Engineering
+BACHELOR OF NETWORK ENGINERRING | JUNE 2011 | QINGDAO TECHNOLOGICAL UNIVERSITY
+· Majors： Network Interconnection Technology | Network Integration Technology on Intelligent Building | Network Generic Cabling | Web-based Management | Network Programming | Information Security and Privacy
+Personal Skills
+· UI design and UX interaction design;
+· Front-end programming skills in C#, PHP, Java;
+· Internet and web application development: HTML5, CSS, JavaScript, ASP.NET, MVC, JQuery, Bootstrap;
+· Database design and implementation: Oracle, SQL, JPQL.
+Academic Project
+IOS MOBILE APP DEVELOPMENT | GRADUATION PROJECT (AWARD-WINNING FOR GRADUATION)
+· Twinning iOS App Developed for people living with dementia and caregivers;
+· Mainly responsible for user interface design and user experience design;
+· Developing environment：IOS Xcode, Phtoshop, Moqups.
+ONLINE SHOPPING SYSTEM DEVELOPMENT | COURSE PROJECT
+· Responsible for user interface design and user experience feedback;
+· Design platform: mobile phone, tablet and desktop;
+· Developing environment：Moqups, Phtoshop.
+WEBSITE DEVELOPMENT FOR CHARITY THEME | COURSE PROJECT
+· Responsible for web front-end design and back-end database support;
+页 2
+· Developing technology：ASP.NET, MVC, Html/CSS, JavaScript, JQuery；
+· Developing environment：Windows Visual Studio.
+Work Experience
+VOLUNTEER FOR CHARITY SOCIAL WEBSITE DEVELOPMENT | UMBRELLA CAFÉ | 07,2017
+· Multifunctional social website developed to connect staff, members and people living with dementia and their caregivers;
+· Mainly responsible for UI/UX design and functionality of online forum, payment system, account management and so on;
+· Developing environment：Windows Visual Studio, Github Phtoshop, Moqups.
+PERSONAL TRAINING COACH | MONASH UNIVERSITY | 07,2016 - 06,2017
+· Guide and help trainees with muscle-building and weight-losing;
+· Host seminar regarding scientific methods of public physical training;
+· Make professional plan or diet and training for trainees.
+ENGLISH TUTOR | NEW ORIENTAL EDUCATION GROUP | CHINA | 03,2010 - 05,2015
+· Leader in charge of academic research work and teaching (over 6,000 hours);
+· Hosted forums regarding oversea study and English test preparation;
+· Published academic articles China’s leading English learning journals;
+· Design English courses and tests for students at all levels.
